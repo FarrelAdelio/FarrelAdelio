@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farrel Adelio</h1>
+<h1 align="center">Hi 👋, I'm Farrel Adelio A</h1>
 <p align="center">🎓 Student of Software Engineering at Politeknik Negeri Batam</p>
 <p align="center">🧠 Passionate about frontend development & efficient system design</p>
 
