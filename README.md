@@ -6,7 +6,7 @@
 
 ### 🧰 Tech Stack
 - HTML5 / CSS3 / JavaScript
-- TailwindCSS / Bootstrap
+- TailwindCSS
 - Git & GitHub
 - Figma / Google Sheets / Apps Script
 
