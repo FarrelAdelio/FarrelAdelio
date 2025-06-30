@@ -17,7 +17,7 @@
 | Role           | Organization              | Period                      |
 |----------------|---------------------------|-----------------------------|
 | Administrator  | PT. Karya Teknik Utama    | June 2022 – June 2023 (PKL) |
-| Administrator  | PT. SGEEDE                | March 2025 – March 2026     |
+| Administrator  | PT. SGEEDE                | March 2025 –                |
 
 ---
 
